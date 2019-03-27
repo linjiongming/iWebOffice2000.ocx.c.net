@@ -1,0 +1,7 @@
+CAPTION=iWebOffice2000网络文档中间件免费版[安装]
+PRODUCTS=iWebOffice2000网络文档中间件免费版
+DIRECTORY=C:\iWebOffice2000
+FILE01=iWebOffice2000.ocx
+FILE02=SignatureSetEnv.exe
+REGSVR01=iWebOffice2000.ocx
+EXECUTE01=SignatureSetEnv.exe

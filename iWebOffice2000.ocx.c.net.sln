@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "iWebOffice2000.ocx.c.net", ".", "{A1A7FB3C-FB44-4A9E-A18D-D270CBE3E150}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/iWebOffice2000.ocx.c.net"
+		Debug.AspNetCompiler.PhysicalPath = "..\iWebOffice2000.ocx.c.net\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\iWebOffice2000.ocx.c.net\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/iWebOffice2000.ocx.c.net"
+		Release.AspNetCompiler.PhysicalPath = "..\iWebOffice2000.ocx.c.net\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\iWebOffice2000.ocx.c.net\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1958"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A7FB3C-FB44-4A9E-A18D-D270CBE3E150}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A1A7FB3C-FB44-4A9E-A18D-D270CBE3E150}.Debug|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {836B9BFA-CCA2-4C87-9BDB-FAD2924AF429}
+	EndGlobalSection
+EndGlobal
